@@ -1,0 +1,1 @@
+A stock picker that advises the best time to buy and sell shares based on the changing price of stocks through the week.
